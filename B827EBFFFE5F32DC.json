@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE5F32DC",
+    "servers": [
+      {
+        "server_address": "thethings.meshed.com.au",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": -34.91309144,
+    "ref_longitude": -56.18570030,
+    "ref_altitude": 3,
+    "contact_email": "nicolas@rizoma.io",
+    "description": "915MHz Gateway based on RAK831+RPi Zero."
+  }
+}
